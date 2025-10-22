@@ -7,12 +7,12 @@
 
 ### Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [edgarGS25/ECO-Store](https://github.com/edgarGS25/ECO-Store)<br>
-2. ⬆️ Pushed undefined commit(s) to [edgarGS25/ECO-Store](https://github.com/edgarGS25/ECO-Store)<br>
-3. ⬆️ Pushed undefined commit(s) to [edgarGS25/ECO-Store](https://github.com/edgarGS25/ECO-Store)<br>
-4. ⬆️ Pushed undefined commit(s) to [edgarGS25/ECO-Store](https://github.com/edgarGS25/ECO-Store)<br>
-5. ⬆️ Pushed undefined commit(s) to [edgarGS25/ECO-Store](https://github.com/edgarGS25/ECO-Store)<br>
+1. ⬆️ Pushed undefined commit(s) to [edgarGS25/Portafolio](https://github.com/edgarGS25/Portafolio)<br>
+2. ⬆️ Pushed undefined commit(s) to [edgarGS25/Portafolio](https://github.com/edgarGS25/Portafolio)<br>
+3. ⬆️ Pushed undefined commit(s) to [edgarGS25/Portafolio](https://github.com/edgarGS25/Portafolio)<br>
+4. ⬆️ Pushed undefined commit(s) to [edgarGS25/Portafolio](https://github.com/edgarGS25/Portafolio)<br>
+5. ⬆️ Pushed undefined commit(s) to [edgarGS25/Portafolio](https://github.com/edgarGS25/Portafolio)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 21st, 2025, 1:02:50 PM
+Last Updated: Wednesday, October 22nd, 2025, 12:43:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
